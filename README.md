@@ -1,6 +1,6 @@
 # Juego de Cartas de Memoria
 
-¡Bienvenido al juego de cartas de memoria! Este es un sencillo juego desarrollado utilizando HTML, CSS y JavaScript. El objetivo del juego es encontrar pares de cartas iguales en el menor tiempo posible.
+¡Bienvenido/a al juego de cartas de memoria! Este es un sencillo juego desarrollado utilizando HTML, CSS y JavaScript. El objetivo del juego es encontrar pares de cartas iguales en el menor tiempo posible.
 
 ## Descripción
 
